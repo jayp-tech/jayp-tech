@@ -1,5 +1,8 @@
 ### Hi there, I am Jay Patel 👋
-[![Linkedin Badge](https://img.shields.io/badge/-jay-patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jay-patel1999/)](https://www.linkedin.com/in/jay-patel1999/)
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-jay_patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jay-patel1999/)](https://www.linkedin.com/in/jay-patel1999/)
 [![Gmail Badge](https://img.shields.io/badge/-jaybharatpatel1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaybharatpatel1999@gmail.com)](mailto:jaybharatpatel1999@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://aayuvraj.github.io/)
