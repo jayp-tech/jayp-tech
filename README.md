@@ -1,6 +1,6 @@
 ### Hi there, I am Jay Patel 👋
-[![Linkedin Badge](https://img.shields.io/badge/-aayush_shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-shah-601029130/)](https://www.linkedin.com/in/aayush-shah-601029130/)
-[![Gmail Badge](https://img.shields.io/badge/-aayushhemal98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aayushhemal98@gmail.com)](mailto:aayushhemal98@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-jay_patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jay-patel1999/)](https://www.linkedin.com/in/jay-patel199/)
+[![Gmail Badge](https://img.shields.io/badge/-jaybharatpatel1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaybharatpatel1999@gmail.com)](mailto:jaybharatpatel1999@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://aayuvraj.github.io/)
 - ⚡ Motivation: The only way to learn something new is by implementing it.🤓
