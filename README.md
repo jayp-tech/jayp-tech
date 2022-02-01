@@ -7,8 +7,6 @@
 
 - 🎯 Portfolio website: [Portfolio](https://jayp-tech.github.io/)
 - ⚡ Motivation: The only way to learn something new is by implementing it.🤓
-<!--
-**jayp-tech/jayp-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 💻 **Things I love**
@@ -46,4 +44,3 @@
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
--->
